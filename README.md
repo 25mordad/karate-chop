@@ -24,9 +24,19 @@ Basic binary Search:
 `midsearch.Chop(_ITEM, _ITEMS)`
 
 The recursive method:
+
 `midsearch.Chop(_ITEM, _ITEMS)`
 
 
 ## Dependency:
 
 `go get github.com/stretchr/testify/assert`
+
+## Test:
+
+`go test`
+
+![test-1](https://i.imgur.com/KsTZQcO.png)
+
+
+![test-2](https://i.imgur.com/uY8bK3o.png)
